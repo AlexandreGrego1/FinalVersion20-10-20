@@ -88,7 +88,7 @@ Google Fonts CDN was used to have Sans-Serif and Exo as a font family for the bo
 I was using Git for version control, uploading the project to GitHub.
 
 My GitHub repository for this project:
-https://github.com/AlexandreGrego1/PersonalPortfolioProject.git
+https://github.com/AlexandreGrego1/FinalVersion20-10-20
 
 ## TESTING WRITE-UP
 
