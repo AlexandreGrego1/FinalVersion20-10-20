@@ -2,7 +2,7 @@
   
 Personal Portfolio Alexandre Gregorio,
 
-This portfolio aim is to offer to recruiters an on-line apresentation of myself covering my work history, my gradutaion and my skills as Web Developer.
+This portfolio aim is to offer to recruiters an on-line apresentation of myself covering my work history, gradutaion and my skills as Web Developer.
 
 ## UX DESIGN / PRESENTATION
 
