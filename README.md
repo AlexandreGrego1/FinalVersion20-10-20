@@ -114,3 +114,4 @@ Scrimba - https://scrimba.com - Idea for portfolio <br>
 Google Fonts - https://fonts.google.com - CDN for fonts used in the project <br>
 Font Awesome - https://fontawesome.com - CDN for fonts used in the project <br>
 W3schools - https://www.w3schools.com - CDN for fonts used in the project <br>
+CodeInstute - Full Stack Web Developer Course
