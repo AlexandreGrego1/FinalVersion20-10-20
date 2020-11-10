@@ -17,23 +17,28 @@ The pages are developed on their content having crossed links between each other
 The home page consists of a profile picture, greetings, and a dedicated section to describe "Who I am".
 A hamburger button is applied on the top-right of the page, and it is programmed to collapse the navigation buttons. 
 Inside the footer section, there is a link with a printable version of my CV and my contact details.
+
 The method applied to develop this page is described as per below: <br>
 
 #### Header
-- An introduction section is wrapped with a profile image and greetings. Zoom animation is applied on a scale from 0.9 to 1.0 to call the user's attention with a profile picture and greetings.
-- The hamburger button is developed with a transform translateX (0) animation to collapse the navigation buttons. Once the user clicks on the hamburger button, the navigation shows up and the user is able to choose which page they would like to go to. <br>
+- Section wrapped with a profile image and greetings;
+- Zoom animation applied on a scale from 0.9 to 1.0 to call the user's attention;
+- Hamburger button developed with a transform translateX (0) animation and collapsing the navigation buttons. Once the user clicks on the hamburger button, the navigation shows up, and the options are available to be clicked. <br>
 
 #### Resume 
-The resume screen is developed to split its size into two different layouts. For personal details, it will take 1/3 of the desktop view, while my skills will take 2/3 of the desktop view. 
-Both screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. 
-The paragraphs are developed to display its context underneath each other as a column. <br>;
+- Screen developed to split its size into two different layouts;
+- Personal details takes 1/3 of the desktop view, while "my skills" takes 2/3 of the desktop view. 
+- Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed to display its context underneath each other as a column.
 
 #### About Me
-- Section wrapped with a picture and a text covering an apresentation about Who I am, and my expectations.<br>
+- Dedicated section to demonstrate to potencial recruiters about the candidate personality, what he/she has done, and what are their expections;
+- A picture, and a resume text with "Who I am" context were wrapped in the same section.
 
 #### Footer 
-- Ancor link to access an printable version of CV available in pdf. Target blank applied to keep the recruiter on the main. Download font awesome button applied, and hovering with red color;
-- Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
+- An anchor link to access a printable version of the CV is available in pdf;
+- The target_ blank attribute is applied to keep the user on the main screen;
+- Anchor links are applied to the professional network;
+- Font awesome button is applied and it is hovering in red color.
 
 
 ## RESUME
