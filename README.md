@@ -9,7 +9,7 @@ This portfolio aims to offer for recruiters an on-line presentation of myself co
 
 ### Wireframing
 
-The pages are developed on their content having crossed links between each other as per below:
+The pages are developed on their content having crossed links between each other.
 
 
 ## HOME 
@@ -43,9 +43,10 @@ The method applied to develop this page is described as per below: <br>
 
 ## RESUME
 
-The resume page consists in my work history and my skills as developer student at Code Institute. My work history is from my backgroung experiences and my skills as front end and back end is based on my resume project lecture. 
+The resume page consists of my work history and my skills as a developer student at Code Institute. 
+Although my work history is from my background experiences, my front end and back end skills are copied from my resume project lecture at Code Institute.
 
-The method applied to develope this page was done as per below: <br>
+The method applied to develop this page is described as per below: <br>
 
 #### Header
 - Introduction section wrapped with a profile image and greetings. An zoom anitation with a scale from 0.9 to 1.0 was applied;
