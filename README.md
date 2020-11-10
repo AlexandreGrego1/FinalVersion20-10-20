@@ -15,20 +15,18 @@ The pages are developed on their content having crossed links between each other
 ## HOME 
 
 The home page consists of a profile picture, greetings, and a dedicated section to describe "Who I am".
-
 A hamburger button is applied on the top-right of the page, and it is programmed to collapse the navigation buttons. 
-
 Inside the footer section, there is a link with a printable version of my CV and my contact details.
-
 The method applied to develop this page is described as per below: <br>
 
 #### Header
-- An introduction section is wrapped with a profile image and greetings. Zoom animation is applied on a scale from 0.9 to 1.0 to call the user's attention if this profile picture and greetings.
-
-- Hamburger and nav button which has an transform translatex (0) applied to bring an animation to hide the navigation buttons from main menu on the home page.<br>
+- An introduction section is wrapped with a profile image and greetings. Zoom animation is applied on a scale from 0.9 to 1.0 to call the user's attention with a profile picture and greetings.
+- The hamburger button is developed with a transform translateX (0) animation to collapse the navigation buttons. Once the user clicks on the hamburger button, the navigation shows up and the user is able to choose which page they would like to go to. <br>
 
 #### Resume 
-- Container-fluid class developed to split its screen between personal details and About Me. For personal details, the screen is developed to take 1/3 of the screen, and the About Me is developed to take 2/3 of the screen when it is displayed on desktop view. Both screen is developed to open on responsive view floating to left and aligning to the center page displaying the context underneath to the subsequence context.<br>
+The resume screen is developed to split its size into two different layouts. For personal details, it will take 1/3 of the desktop view, while my skills will take 2/3 of the desktop view. 
+Both screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. 
+The paragraphs are developed to display its context underneath each other as a column. <br>;
 
 #### About Me
 - Section wrapped with a picture and a text covering an apresentation about Who I am, and my expectations.<br>
