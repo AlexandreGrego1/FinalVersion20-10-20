@@ -12,7 +12,7 @@ This portfolio aims to offer for recruiters an on-line presentation of myself co
 The pages are developed on their content having crossed links between each other as per below:
 
 
-#### HOME 
+## HOME 
 
 The home page consists of a profile picture, greetings, and a dedicated section to describe "Who I am".
 
@@ -38,7 +38,7 @@ The method applied to develop this page is described as per below: <br>
 - Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
 
 
-#### RESUME
+## RESUME
 
 The resume page consists in my work history and my skills as developer student at Code Institute. My work history is from my backgroung experiences and my skills as front end and back end is based on my resume project lecture. 
 
@@ -56,7 +56,7 @@ The method applied to develope this page was done as per below: <br>
 - Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
 
 
-#### CONTACT
+## CONTACT
 
 The contact page consists in a form for the potencial employer be in touch to send assements tests from enterivew process, or potencial projects to work togheter.
 
