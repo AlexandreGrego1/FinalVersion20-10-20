@@ -27,7 +27,7 @@ The method applied to develop this page is described as per below: <br>
 
 #### Resume 
 - Screen developed to split its size into two different layouts;
-- Personal details takes 1/3 of the desktop view, while "my skills" takes 2/3 of the desktop view. 
+- Personal details takes 1/3 of the desktop view, while "about me" takes 2/3 of the desktop view. 
 - Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed to display its context underneath each other as a column.
 
 #### About Me
@@ -48,36 +48,31 @@ Although my work history is from my background experiences, my front end and bac
 
 The method applied to develop this page is described as per below: <br>
 
-#### Header
-- Introduction section wrapped with a profile image and greetings. An zoom anitation with a scale from 0.9 to 1.0 was applied;
-- Hamburger and nav button with transform translatex (0) applied bringing an animation to hide the navigation buttons from main menu on the home page.<br>
-
 #### About Me
-- Container-fluid class developed to split its screen between work history and My Skills. For my work history, it was developed to take 1/3 of the screen, for my skills, it was developed to take 2/3 of the screen when it is displayed on desktop view. Both screen is developed to open on responsive view floating to left and aligning to the center page displaying the context underneath to the subsequence context.<br>
-
-#### Footer 
-- Ancor link to access an printable version of CV available in pdf. Target blank applied to keep the recruiter on the main. Download font awesome anitation button applied, and  hovering with red color;
-- Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
+- Screen developed to split its size into two different layouts;
+- Work history takes 1/3 of the desktop view, while "my skills" takes 2/3 of the desktop view. 
+- Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed to display its context underneath each other as a column.
 
 
 ## CONTACT
 
-The contact page consists in a form for the potencial employer be in touch to send assements tests from enterivew process, or potencial projects to work togheter.
+The contact page consists of a form for potential recruiters to be in touch to send assessment tests, projects, and any other text inputs.
 
-The method applied to develope this page was as per below:
-
-Header
-- Introduction section wrapped with a profile image and greetings. An zoom anitation with a scale from 0.9 to 1.0 was applied;
-- Hamburger and nav button with transform translatex (0) applied bringing an animation to hide the navigation buttons from main menu on the home page.<br>
+The method applied to develop this page is described as per below: <br>
 
 Form
-- Inputs for name, e-mail, and project description. All inputs are required and placeholder fields applied;
-- Button to submit the input text entered with a boostrap anination button applied.
+- Name, e-mail, and project description inputs;
+- Required attribute;
+- Placeholder fields;
+- Submission button; 
+- Boostrap effects.
 
 
 ## DOWNLOAD CV LINK
 
-Located on the footer, this is a navbar which gives an option for recruiters to download my CV in pdf, and print that as part of tradicional way for some recruiters. 
+Located on the footer section, this anchor link gives an option for recruiters who wish to download the CV in pdf version. 
+
+To keep the user on the main page, a "target_blank" attribute is applied to open the download page in a new tab.
 
 
 ## MOBILE WIREFRAMES
