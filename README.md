@@ -27,13 +27,13 @@ Header
 
 - Hamburger and nav button which has an transform translatex (0) applied to bring an animation to hide the navigation buttons from main menu on the home page.<br>
 
-Resume 
+#### Resume 
 - Container-fluid class developed to split its screen between personal details and About Me. For personal details, the screen is developed to take 1/3 of the screen, and the About Me is developed to take 2/3 of the screen when it is displayed on desktop view. Both screen is developed to open on responsive view floating to left and aligning to the center page displaying the context underneath to the subsequence context.<br>
 
-About Me
+#### About Me
 - Section wrapped with a picture and a text covering an apresentation about Who I am, and my expectations.<br>
 
-Footer 
+#### Footer 
 - Ancor link to access an printable version of CV available in pdf. Target blank applied to keep the recruiter on the main. Download font awesome button applied, and hovering with red color;
 - Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
 
