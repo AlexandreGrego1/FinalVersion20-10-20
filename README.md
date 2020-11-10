@@ -2,24 +2,29 @@
   
 Personal Portfolio Alexandre Gregorio,
 
-This portfolio aim is to offer to recruiters an on-line apresentation of myself covering my work history, gradutaion and my skills as Web Developer.
+This portfolio aims to offer for recruiters an on-line presentation of myself covering my work history, graduation, and my skills as a Web Developer.
 
 
 ## UX DESIGN / PRESENTATION
 
 ### Wireframing
 
-The pages were developed on their own content, and having crossed links between each other as per below:
+The pages are developed on their content having crossed links between each other as per below:
 
 
 #### HOME 
 
-The home page consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
+The home page consists of a profile picture, greetings, and a dedicated section to describe "Who I am".
 
-The method applied to develope this page was as per below: <br>
+A hamburger button is applied on the top-right of the page, and it is programmed to collapse the navigation buttons. 
+
+Inside the footer section, there is a link with a printable version of my CV and my contact details.
+
+The method applied to develop this page is described as per below: <br>
 
 Header
-- Introduction section wrapped with a profile image and greetings. An zoom anitation with a scale from 0.9 to 1.0 was applied;
+- An introduction section is wrapped with a profile image and greetings. Zoom animation is applied on a scale from 0.9 to 1.0 to call the user's attention if this profile picture and greetings.
+
 - Hamburger and nav button which has an transform translatex (0) applied to bring an animation to hide the navigation buttons from main menu on the home page.<br>
 
 Resume 
