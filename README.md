@@ -60,7 +60,7 @@ The contact page consists of a form for potential recruiters to be in touch to s
 
 The method applied to develop this page is described as per below: <br>
 
-Form
+#### Form
 - Name, e-mail, and project description inputs;
 - Required attribute;
 - Placeholder fields;
