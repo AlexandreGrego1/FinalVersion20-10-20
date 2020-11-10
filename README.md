@@ -68,7 +68,7 @@ Form
 - Boostrap effects.
 
 
-## DOWNLOAD CV LINK
+## DOWNLOAD CV
 
 Located on the footer section, this anchor link gives an option for recruiters who wish to download the CV in pdf version. 
 
