@@ -2,14 +2,16 @@
   
 Personal Portfolio Alexandre Gregorio,
 
-This portfolio aims to offer for recruiters an on-line presentation of myself covering my work history, graduation, and my skills as a Web Developer.
+This portfolio aims to offer for potencial recruiters an on-line presentation of myself covering my work history, graduation, and my skills as a Web Developer.
 
 
 ## UX DESIGN / PRESENTATION
 
 ### Wireframing
 
-The pages are developed on their content having crossed links between each other.
+The pages are developed and designed on their content at the structural level having commonly used lay outs contect and functionality whick takes into account user needs and user journeys. 
+
+I have thought early in the project, in the development process to establish the basic structure of a page before visual design and content is added.
 
 
 ## HOME 
@@ -70,21 +72,25 @@ The method applied to develop this page is described as per below: <br>
 
 ## DOWNLOAD CV
 
-Located on the footer section, this anchor link gives an option for recruiters who wish to download the CV in pdf version. 
+Located on the footer section, the anchor link gives an option for recruiters to download the CV in pdf version. 
 
 To keep the user on the main page, a "target_blank" attribute is applied to open the download page in a new tab.
 
 
 ## MOBILE WIREFRAMES
 
-The layout placement and how they interact with one another goes through many stages, from conception to mockups to finalized UI is based on responsive view.
+The layout placement and how they interact with one another goes through many stages, from conception to mockups to finalized UI is based on a responsive view.
 
 
 ## TYPOGRAPHY
 
-I have operated with mostly darker in the background and lighter colors in the font-family. The most dominant colors are black for background, white, cyan and for font-family.
+I have operated with mostly darker in the background and lighter colors for the font-family. 
 
-Google Fonts CDN was used to have Sans-Serif and Exo as a font family for the body text.
+The most dominant colors are: 
+- Black for the background;
+- White and cyan for the font-family.
+
+Google Fonts CDN is applied, Sans-Serif and Exo are the main attributes for font-family and body text.
 
 
 ## APPLYIED TECHNOLOGIES
@@ -122,11 +128,11 @@ Responsivity for mobile devices tested on :
 
 ## BARRIES TO TECHNOLOGY DEVELOPMENT
 
-As my limited knowledge in development tools, I have developed my portfolio in the same stands as my resume project lecture. Althought my limited knologment, I have applyied my own caracteristics to this project trying to give my particular caracteristics to the portfolio. 
+As my lack of knowledge in development tools, I have developed my portfolio in the same stands according to my resume project lecture. 
 
-After developed my first project, I noticed that I should spent more time absorving the theoric part of the lecture in order to have more subsides to apply the develop concets easily. 
+Although my limited knowledge was a barrier, I have applied to this project the characteristics that in my opinion are similar to my profile. 
 
-I would save much more time if I had stopped to research about the theory before going to the next modulo. 
+After developed my first project, I noticed that is required to spend more time on the theory lectures to have more understanding of the subjects to facilitate the development process in future projects. 
 
 
 ## REFERENCES
