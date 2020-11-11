@@ -9,7 +9,7 @@ This portfolio aims to offer for potencial recruiters an on-line presentation of
 
 ### Wireframing
 
-The pages are developed and designed on their content at the structural level having commonly used lay outs contect and functionality whick takes into account user needs and user journeys. 
+The pages are developed and designed on their content at the structural level having commonly used layouts content and functionality which takes into account user needs and user journeys.
 
 I have thought early in the project, in the development process to establish the basic structure of a page before visual design and content is added.
 
