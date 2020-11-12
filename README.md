@@ -13,7 +13,6 @@ The pages are developed and designed on their content at the structural level ha
 
 I have thought early in the project, in the development process to establish the basic structure of a page before visual design and content is added.
 
-
 ## HOME 
 
 The home page consists of a profile picture, greetings, and a dedicated section to describe "Who I am".
@@ -42,6 +41,7 @@ The method applied to develop this page is described as per below: <br>
 - Anchor links are applied to the professional network;
 - Font awesome button is applied and it is hovering in red color.
 
+<img src="assets/img/BalsamiqHome.png" style="margin: 0;">
 
 ## RESUME
 
