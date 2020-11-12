@@ -41,7 +41,6 @@ The method applied to develop this page is described as per below: <br>
 - Anchor links are applied to the professional network;
 - Font awesome button is applied and it is hovering in red color.
 
-<img src="/AlexandreGrego1/FinalVersion20-10-20/raw/master/assets/img/Wireframes/BalsamiqHome" alt="" style="max-width:100%;">
 
 ## RESUME
 
@@ -141,8 +140,3 @@ Scrimba - https://scrimba.com - Idea for portfolio <br>
 Google Fonts - https://fonts.google.com - CDN for fonts used in the project <br>
 Font Awesome - https://fontawesome.com - CDN for fonts used in the project <br>
 W3schools - https://www.w3schools.com - CDN for fonts used in the project <br>
-<<<<<<< HEAD
-CodeInstute - Full Stack Web Developer Course
-=======
-CodeInstute - Full Stack Web Developer Course
->>>>>>> 34adff41cddd813b3cf73a77e8bd4618437d3226
