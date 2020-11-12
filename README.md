@@ -41,7 +41,6 @@ The method applied to develop this page is described as per below: <br>
 - Anchor links are applied to the professional network;
 - Font awesome button is applied and it is hovering in red color.
 
- <img src="assets/BalsamiqHome.png" alt="my profile img" class="intro-img">
 
 ## RESUME
 
