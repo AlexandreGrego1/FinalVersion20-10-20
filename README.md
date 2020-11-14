@@ -37,6 +37,8 @@ The method applied to develop this page is described as per below: <br>
 
 <img src="Wireframes/HomeDesktopView.png" alt="">
 
+
+
 ## RESUME
 
 The resume page consists of my work history and my skills as a developer student at Code Institute. 
@@ -50,6 +52,8 @@ The method applied to develop this page is described as per below: <br>
 - Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed to display its context underneath each other as a column.
 
 <img src="Wireframes/ResumeDesktopView.png" alt="">
+
+
 
 ## CONTACT
 
@@ -66,6 +70,8 @@ The method applied to develop this page is described as per below: <br>
 
 <img src="Wireframes/ContactDesktopView.png" alt="">
 
+
+
 ## DOWNLOAD CV
 
 Located on the footer section, the anchor link gives an option for recruiters to download the CV in pdf version. 
@@ -73,12 +79,12 @@ Located on the footer section, the anchor link gives an option for recruiters to
 To keep the user on the main page, a "target_blank" attribute is applied to open the download page in a new tab.
 
 
+
 ### WIREFRAMES
 
 The pages are developed and designed on their content at the structural level having commonly used layouts content and functionality which takes into account user needs and user journeys.
 
 I have thought early in the project, in the development process to establish the basic structure of a page before visual design and content is added.
-
 
 ### Mobile Wireframes
 
@@ -88,13 +94,16 @@ The layout placement and how they interact with one another goes through many st
 
 <img src="Wireframes/HomeMobileView.png" alt="">
 
+
 ### RESUME
 
 <img src="Wireframes/ResumeMobileView.png" alt="">
 
+
 ### CONTACT
 
 <img src="Wireframes/ContactMobileView.png" alt="">
+
 
 
 ## TYPOGRAPHY
