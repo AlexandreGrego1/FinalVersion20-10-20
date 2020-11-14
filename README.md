@@ -7,12 +7,6 @@ This portfolio aims to offer for potencial recruiters an on-line presentation of
 
 ## UX DESIGN / PRESENTATION
 
-### Wireframing
-
-The pages are developed and designed on their content at the structural level having commonly used layouts content and functionality which takes into account user needs and user journeys.
-
-I have thought early in the project, in the development process to establish the basic structure of a page before visual design and content is added.
-
 ## HOME 
 
 The home page consists of a profile picture, greetings, and a dedicated section to describe "Who I am".
@@ -79,7 +73,14 @@ Located on the footer section, the anchor link gives an option for recruiters to
 To keep the user on the main page, a "target_blank" attribute is applied to open the download page in a new tab.
 
 
-## MOBILE WIREFRAMES
+### WIREFRAMES
+
+The pages are developed and designed on their content at the structural level having commonly used layouts content and functionality which takes into account user needs and user journeys.
+
+I have thought early in the project, in the development process to establish the basic structure of a page before visual design and content is added.
+
+
+### Mobile Wireframes
 
 The layout placement and how they interact with one another goes through many stages, from conception to mockups to finalized UI is based on a responsive view.
 
