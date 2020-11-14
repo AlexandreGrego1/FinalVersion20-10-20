@@ -55,6 +55,7 @@ The method applied to develop this page is described as per below: <br>
 - Work history takes 1/3 of the desktop view, while "my skills" takes 2/3 of the desktop view. 
 - Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed to display its context underneath each other as a column.
 
+<img src="Wireframes/ResumeDesktopView.png" alt="">
 
 ## CONTACT
 
@@ -69,6 +70,7 @@ The method applied to develop this page is described as per below: <br>
 - Submission button; 
 - Boostrap effects.
 
+<img src="Wireframes/ContactDesktopView.png" alt="">
 
 ## DOWNLOAD CV
 
@@ -80,6 +82,18 @@ To keep the user on the main page, a "target_blank" attribute is applied to open
 ## MOBILE WIREFRAMES
 
 The layout placement and how they interact with one another goes through many stages, from conception to mockups to finalized UI is based on a responsive view.
+
+### HOME
+
+<img src="Wireframes/HomeMobileView.png" alt="">
+
+### RESUME
+
+<img src="Wireframes/ResumeMobileView.png" alt="">
+
+### CONTACT
+
+<img src="Wireframes/ContactMobileView.png" alt="">
 
 
 ## TYPOGRAPHY
