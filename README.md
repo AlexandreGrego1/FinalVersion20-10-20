@@ -146,7 +146,18 @@ As my lack of knowledge in development tools, I have developed my portfolio in t
 
 Although my limited knowledge was a barrier, I have applied to this project the characteristics that in my opinion are similar to my profile. 
 
-After developed my first project, I noticed that is required to spend more time on the theory lectures to have more understanding of the subjects to facilitate the development process in future projects. 
+After developed my first project, I noticed that is required to spend more time on the theory lectures to have more understanding of the subjects to facilitate the development 
+process in future projects. 
+
+
+## CONCLUSION
+
+This first project is crucial to keep me motivated to go throughout for the next modules on my course. 
+
+As  I have got no idea what coding was before starting to study at Code Institute, I had several issues to develop this project and spending too much time sorting small problems
+for being completely inexperienced. I have realized that I have to improve the way I was studying for the next modules.
+
+Now I understand what our tutor Brian O Grady mean when he said "It is not a sprint, it is a marathon"
 
 
 ## REFERENCES
