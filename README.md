@@ -2,10 +2,54 @@
   
 Personal Portfolio Alexandre Gregorio,
 
-This portfolio aims to offer for potencial recruiters an on-line presentation of myself covering my work history, graduation, and my skills as a Web Developer.
+A comprehensive portfolio website for a job seeker based in Dublin. This portfolio features an on-line CV with a profile greetings, personal information, about me section, 
+who I am section, contact details, network links, download cv link, hamburger button, and a contact form page. This portfolio aim is to lead potential recruiters to make contact
+after the portfolio presentation. 
 
 
-## UX DESIGN / PRESENTATION
+## UX 
+
+
+#### This portfolio aims are: 
+
+* Demonstrate the candidate's enthusiasm for learning to develop new professional skills;
+* Obtain a position as an Entry-Level Web Developer;
+* Build a long-term career for growth and to keep up with great enthusiasm.
+
+
+#### The ideal recruiters for this candidate are: 
+
+* Flexible for contracting an entry-level candidate;
+* Available to provide training and mentoring sections;
+* Focused on candidate work experience in other sectors.
+
+
+#### This portfolio introduces a candidate that could be a good fit for the companies as: 
+
+* The candidate experience to lead with internal and external customers would be a good match for an entry-level candidate;
+* A mature student would demonstrate a willingness to compromise in a new career;
+* Flexibility to adapt to new tasks and develop new skills.
+
+
+#### Stakeholders stories:
+
+* As a recruiter, I want to learn about the candidate, so I can feel if I would contact him for the available position.
+* As a recruiter, I want to see how the candidate manages the development tools.
+* As a recruiter, I want to check the candidate's work experience. 
+* As a recruiter, I would like to see if the candidate would start as an entry-level in a new career.
+* As a recruiter, I want to verify the candidate networking links to see if the candidate has already been involved in any other projects. 
+* As a visitor, I want to easily navigate throughout the website.
+
+
+#### Wireframes
+
+##### Desktop view: 
+
+* <a href="Wireframes/HomeDesktopView.png" target="_blank">Home</a>
+
+
+
+
 
 ## HOME 
 
@@ -35,7 +79,7 @@ The method applied to develop this page is described as per below: <br>
 - Anchor links are applied to the professional network;
 - Font awesome button is applied and it is hovering in red color.
 
-<img src="Wireframes/HomeDesktopView.png" alt="">
+
 
 
 
