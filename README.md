@@ -201,8 +201,8 @@ The path through the website: Home > Resume > Contact > Download CV
 
 Those pages point to the next call with an action button. Visitors can have different navigations throughout the menu navigation. 
 
-1. As a visitor to the website, I want to easily navigate throughout the website portfolio. 
-	1. A fixed navigation bar navigation overflowing the screen is applied. 
+1. As a visitor to the website, I want to easily navigate throughout the website portfolio: 
+    1. A fixed navigation bar navigation overflowing the screen is applied. 
 	2. The visitors can easily access the navigation from whatever part of the portfolio they are in.
 
 2. As a recruiter, I want to decide quickly if the candidate is a good fit for the job position offered.
