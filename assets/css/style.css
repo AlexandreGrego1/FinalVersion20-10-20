@@ -267,35 +267,6 @@ strong { font-weight: 700; }
     }
 }
 
-@media (max-width: 1393px) {
-    .intro {
-        display: grid;
-        width: min-content;
-        margin: 0 auto;
-        grid-column-gap: 1em;
-        grid-template-areas: 
-            "img title"
-            "img subtitle";
-        grid-template-columns: min-content max-content;
-    }
-    
-    .intro-img {
-        grid-area: img;
-        min-width: 250px;
-        position: relative;
-        z-index: 2;
-    }    
-    
-    .section-subtitle-intro {
-        align-self: start;
-        grid-column: -1 / 1;
-        grid-row: 2;
-        text-align: right;
-        position: relative;
-        left: -1.5em;
-        width: calc(100% + 1.5em);
-    }
-}
 /* ----------------------------------------------------------Personal Info */
 
 .personal-info-item {
@@ -447,38 +418,6 @@ strong { font-weight: 700; }
     }
 }
 
-@media (max-width: 1393px) {
-    .about-me {
-        display: grid;
-        grid-template-columns: 1fr 200px;
-        grid-template-areas: 
-            "title img"
-            "subtitle img"
-            "text img";
-        grid-column-gap: 2em;
-    }
-    
-    .section-title-about {
-        grid-area: title;
-    }
-    
-    .section-subtitle-about {
-        grid-column: 1 / -1;
-        grid-row: 2;
-        position: relative;
-        left: -1em;
-        width: calc(100% + 2em);
-        padding-left: 1em;
-        padding-right: calc(200px + 4em);
-    }
-    
-    .about-me-img {
-        grid-area: img;
-        position: relative;
-        z-index: 2;
-    }
-}
-
 .my-services {
     background-color: #303030;
     background-image: url("../img/bgimg.jpg");
@@ -557,34 +496,6 @@ strong { font-weight: 700; }
     }
 }
 
-@media (max-width: 1393px) {
-    .row-table {
-        display: grid;
-        grid-template-columns: 1fr 200px;
-        grid-template-areas: 
-            "title img"
-            "subtitle img"
-            "text img";
-        grid-column-gap: 2em;
-    }
-    
-    .section-subtitle-about {
-        grid-column: 1 / -1;
-        grid-row: 2;
-        position: relative;
-        left: -1em;
-        width: calc(100% + 2em);
-        padding-left: 1em;
-        padding-right: calc(200px + 4em);
-        font-size: 28px
-    }
-    
-    .about-me-img {
-        grid-area: img;
-        position: relative;
-        z-index: 2;
-    }
-}
 /* ----------------------------------------------------------Skills */
 
 .progress {
@@ -679,16 +590,6 @@ button[type="submit"] {
 /* ----------------------------------------------------------Media Queries */
 
 @media(min-width: 992px) {
-    .center-form {
-    padding-top: 30px;
-    min-height: 240px;
-    margin: 0 auto;
-    max-width: 50%;
-}
-}
-
-
-@media(max-width: 1393px) {
     .center-form {
     padding-top: 30px;
     min-height: 240px;
