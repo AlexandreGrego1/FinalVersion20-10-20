@@ -236,104 +236,96 @@ Those pages point to the next call with an action button. Visitors can have diff
 
 #### Home:
 
-	1. Navigation button:
+1. Navigation button:
+	1. Browse the web project on google chrome.
+	2. Use the google develop tool clicking with the right button of the mouse and click on the inspection option. 
+	3. Change the screen size from desktop to tablet to verify if the sections are responsive reducing the screen size. During the test, the screen sizes were not fitting in its
+        sizes. Adjusts on media screen sizes were made to fit the pages as its screen sizes.
+	4. Click on the hamburger button bar to verify if the navigation options are opening. During the test, the "X" button to collapse the navigation had a border around it causing
+        an ugly designer. So, a CSS outline property was applied to hidden the border.
+	5. Click on the home page to verify if the pages are linked to each order and if the navigation is responding to the command.
+	6. Close the navigation button clicking on the "X" to verify if the translateX function is working. 
+	7. Scroll down the page to check if the bar button is fixed and overflowing the background. During the test, the hamburger button was fixed on the top of the page even if the
+        scroll down was applied. The fixed position was applied to stick the bar navigation even if the page was scrolling down. 
+
+2. Profile image: 
+	1. Refresh the home page screen
+	2. Verify if the zoom is working, the scale is properly sized, and if the time of the zoom animation is not too much.
+	3. Increase the shadow of the image profile and verify if the image is overflowing the subtitle.
+	4. Confirm if the width of the subtitle background is wider than the profile image. During the test, the background of the subtitle text wasn't wider than the image profile. So, the width calc applied is: 100% + 1.5em.
+	5. On responsive view the image profile, greetings, and the subtitle text are center positioning. 
 	
-		i. Browse the web project on google chrome.
-		ii. Use the google develop tool clicking with the right button of the mouse and click on the inspection option. 
-		iii. Change the screen size from desktop to tablet to verify if the sections are responsive reducing the screen size. During the test, the screen sizes were not fitting in its sizes. Adjusts on media screen sizes were
-		     made to fit the pages as its screen sizes.
-		iv. Click on the hamburger button bar to verify if the navigation options are opening. During the test, the "X" button to collapse the navigation had a border around it causing an ugly designer. So, a CSS outline property was applied to hidden the border.
-		v. Click on the home page to verify if the pages are linked to each order and if the navigation is responding to the command.
-		vi. Close the navigation button clicking on the "X" to verify if the translateX function is working. 
-		vii. Scroll down the page to check if the bar button is fixed and overflowing the background. During the test, the hamburger button was fixed on the top of the page even if the scroll down was applied. The fixed position
-		     was applied to stick the bar navigation even if the page was scrolling down. 
+3.  About me section: 
+	1. Section slipped between 1/3 and 2/3 size screen classified in a container box.
+	2. During the test, the background color was too dark that was covering the image. So, a background blend mode was applied to keep the background image showing up.
+	3. On responsive view, the section is split into two parts. The personal information is coming up on the top with its text-align to center, and the about me section is underneath the personal information. 
 
-	2. Profile image: 
+4. Who I am section:
+	1. Test if the text is justified align. During the test, was observed that the text aligns to the left the layout on the right was not align as if it was a book layout.
+	2. Confirm if the subtitle background is wider than the picture.
 
-		i. Refresh the home page screen
-		ii. Verify if the zoom is working, the scale is properly sized, and if the time of the zoom animation is not too much.
-		iii. Increase the shadow of the image profile and verify if the image is overflowing the subtitle.
-		iv. Confirm if the width of the subtitle background is wider than the profile image. During the test, the background of the subtitle text wasn't wider than the image profile. So, the width calc applied is: 100% + 1.5em.
-		v. On responsive view the image profile, greetings, and the subtitle text are center positioning. 
-	
-	3.  About me section: 
-
-		i. Section slipped between 1/3 and 2/3 size screen classified in a container box.
-		ii. During the test, the background color was too dark that was covering the image. So, a background blend mode was applied to keep the background image showing up.
-		iii. On responsive view, the section is split into two parts. The personal information is coming up on the top with its text-align to center, and the about me section is underneath the personal information. 
-
-	4. Who I am section:
-
-		i. Test if the text is justified align. During the test, was observed that the text aligns to the left the layout on the right was not align as if it was a book layout.
-		ii. Confirm if the subtitle background is wider than the picture.
-
-	5. Footer
-		i. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
-		ii. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
-		iii. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
-		iv. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
-		v. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.  
+5. Footer
+	1. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
+	2. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
+	3. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
+	4. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
+	5. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.  
 
 #### Resume:
 
-	1. Navigation button:
+1. Navigation button:
+	1. Browse the web project on google chrome.
+	2. Use the google develop tool clicking with the right button of the mouse and click on the inspection option. 
+	3. Change the screen size from desktop to tablet to verify if the sections are responsive reducing the screen size. During the test, the screen sizes were not fitting in its
+        sizes. Adjusts on media screen sizes were made to fit the pages as its screen sizes.
+	4. Click on the hamburger button bar to verify if the navigation options are opening. During the test, the "X" button to collapse the navigation had a border around it causing
+        an ugly designer. So, a CSS outline property was applied to hidden the border.
+	5. Click on the home page to verify if the pages are linked to each order and if the navigation is responding to the command.
+	6. Close the navigation button clicking on the "X" to verify if the translateX function is working. 
+	7. Scroll down the page to check if the bar button is fixed and overflowing the background. During the test, the hamburger button was fixed on the top of the page even if the
+        scroll down was applied. The fixed position was applied to stick the bar navigation even if the page was scrolling down. 
+
+2. Profile image: 
+	1. Refresh the home page screen
+	2. Verify if the zoom is working, the scale is properly sized, and if the time of the zoom animation is not too much.
+	3. Increase the shadow of the image profile and verify if the image is overflowing the subtitle.
+	4. Confirm if the width of the subtitle background is wider than the profile image. During the test, the background of the subtitle text wasn't wider than the image profile. So, the width calc applied is: 100% + 1.5em.
+	5. On responsive view the image profile, greetings, and the subtitle text are center positioning. 
 	
-		i. Browse the web project on google chrome.
-		ii. Use the google develop tool clicking with the right button of the mouse and click on the inspection option. 
-		iii. Change the screen size from desktop to tablet to verify if the sections are responsive reducing the screen size. During the test, the screen sizes were not fitting in its sizes. Adjusts on media screen sizes were
-		     made to fit the pages as its screen sizes.
-		iv. Click on the hamburger button bar to verify if the navigation options are opening. During the test, the "X" button to collapse the navigation had a border around it causing an ugly designer. So, a CSS outline property was applied to hidden the border.
-		v. Click on the home page to verify if the pages are linked to each order and if the navigation is responding to the command.
-		vi. Close the navigation button clicking on the "X" to verify if the translateX function is working. 
-		vii. Scroll down the page to check if the bar button is fixed and overflowing the background. During the test, the hamburger button was fixed on the top of the page even if the scroll down was applied. The fixed position
-		     was applied to stick the bar navigation even if the page was scrolling down. 
+3.  Work History: 
+	1. Section slipped between 1/3 and 2/3 size screen classified in a container box.
+	2. During the test, the background color was too dark that was covering the image. So, a background blend mode was applied to keep the background image showing up.
+	3. On responsive view, the section is split into two parts. The work history is coming up on the top with its text-align to center, and then my skills section is underneath the personal information. 
 
-	2. Profile image: 
-
-		i. Refresh the home page screen
-		ii. Verify if the zoom is working, the scale is properly sized, and if the time of the zoom animation is not too much.
-		iii. Increase the shadow of the image profile and verify if the image is overflowing the subtitle.
-		iv. Confirm if the width of the subtitle background is wider than the profile image. During the test, the background of the subtitle text wasn't wider than the image profile. So, the width calc applied is: 100% + 1.5em.
-		v. On responsive view the image profile, greetings, and the subtitle text are center positioning. 
-	
-	3.  Work History: 
-
-		i. Section slipped between 1/3 and 2/3 size screen classified in a container box.
-		ii. During the test, the background color was too dark that was covering the image. So, a background blend mode was applied to keep the background image showing up.
-		iii. On responsive view, the section is split into two parts. The work history is coming up on the top with its text-align to center, and then my skills section is underneath the personal information. 
-
-	4. Footer
-		i. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
-		ii. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
-		iii. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
-		iv. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
-		v. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.   
+4. Footer
+	1. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
+	2. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
+	3. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
+	4. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
+	5. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.   
 
 #### Contact: 
 	
-	1. Form: 
-			
-		i. On contact form, type name, email and text to check if the placeholders vanishes.
-		ii. Submit the empty form and verify that an error message about the required fields appears. 
-		iii. Submit the form with an invalid email address and verify that a relevant error message appears.
-		iv. Check if the contact form align in responsive screen. 
+1. Form: 
+	1. On contact form, type name, email and text to check if the placeholders vanishes.
+	2. Submit the empty form and verify that an error message about the required fields appears. 
+	3. Submit the form with an invalid email address and verify that a relevant error message appears.
+	4. Check if the contact form align in responsive screen. 
 
-	2. Footer
-		
-		i. Verify if the e-mail address is a link and if it is hovering in red.
-		ii. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
-		iii. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
-		iv. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
-		v. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
-		vi. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.  
+2. Footer
+	1. Verify if the e-mail address is a link and if it is hovering in red.
+	2. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
+	3. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
+	4. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
+	5. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
+	6. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.  
 
 #### Download CV: 
     
-    1. Download CV: 
-
-        i. Click on hamburger button to open the navigation buttons and click on Download CV. 
-        ii. Check if the CV is opening on a new tab.
-        iii. Verify if the CV is in pdf format.
+1. Download CV: 
+    1. Click on hamburger button to open the navigation buttons and click on Download CV. 
+    2. Check if the CV is opening on a new tab.
+    3. Verify if the CV is in pdf format.
 
 
 ## DEPLOYMENT
@@ -342,52 +334,49 @@ This project is developed using the Gitpod as version control. It is commited an
 
 The GitHub repository for this project is: https://alexandregrego1.github.io/FinalVersion20-10-20/
 
-i.    Log into GitHub.
-ii.   On the right of the page, click on your profile. the list of repositories on the screen, select AJGreaves/portrait-artist.
-iii.  Click on repositories, and click on the repository "FinalVersion20-10-20".
-iv.   Above the Gitpod button,  click on settings.
-v.    Scroll down until the section GitHub pages.
-vi.   Under the Source, click to select the branch and tick the "master" option.
-vii.  After the master branch is selected, a green tick appears with the following text "Your site is published at..."
-viii. Copy that link and past it in your read. me file. 
-ix.   Now the link is deployed and right to be shared.
+1. Log into GitHub.
+2. On the right of the page, click on your profile. the list of repositories on the screen, select AJGreaves/portrait-artist.
+3. Click on repositories, and click on the repository "FinalVersion20-10-20".
+4. Above the Gitpod button,  click on settings.
+5. Scroll down until the section GitHub pages.
+6. Under the Source, click to select the branch and tick the "master" option.
+7. After the master branch is selected, a green tick appears with the following text "Your site is published at..."
+8. Copy that link and past it in your read. me file. 
+9. Now the link is deployed and right to be shared.
 
 ### How to run this project locally
 
-	Installing the GitHub:
+1. Installing the GitHub:
+	1. Use Google Chrome as your browse.
+	2. Go to "https://github.com/", and create an account.
+	3. Install the Gitpod extentions.
+	4. Log in into your GitHub account.
+	5. Click on the hamburger menu.
+	6. Right down at the bottom, open web store.
+	7. Search for Gitod.
+	8. Click on the blue button "Add extension to chrome".
 
-			1. Use Google Chrome as your browse.
-			2. Go to "https://github.com/", and create an account.
-			3. Install the Gitpod extentions.
-			4. Log in into your GitHub account.
-			5. Click on the hamburger menu.
-			6. Right down at the bottom, open web store.
-			7. Search for Gitod.
-			8. Click on the blue button "Add extension to chrome".
-
-
-	Running this project locally: 
-
-			1. Open the link: https://github.com/AlexandreGrego1/FinalVersion20-10-20.
-			2. Click on the button "Code".
-			3. Click on the button "Clone with HTTPs".
-			4. Copy the repository.
-			5. Click on the green button to open the "GitPod". 
-			6. Type "git clone" followed by the link "https://github.com/AlexandreGrego1/FinalVersion20-10-20." on the terminal of your GitPod IDE.
-			7. Press Enter and your local clone will be created.
+2. Running this project locally: 
+	1. Open the link: https://github.com/AlexandreGrego1/FinalVersion20-10-20.
+	2. Click on the button "Code".
+	3. Click on the button "Clone with HTTPs".
+	4. Copy the repository.
+	5. Click on the green button to open the "GitPod". 
+	6. Type "git clone" followed by the link "https://github.com/AlexandreGrego1/FinalVersion20-10-20." on the terminal of your GitPod IDE.
+	7. Press Enter and your local clone will be created.
 
 
 ## TESTING WRITE-UP
 
-Responsivity for mobile devices tested on :
+Responsivity for mobile devices tested on:
 
-* Google Chrome Developer Tools
+- <a href="https://developers.google.com/web/tools" target="_blank">Google Chrome Developer Tools</a>
 
-* Microsoft Edge
+- <a href="https://microsoftedgewelcome.microsoft.com/en-gb/" target="_blank">Microsoft Edge</a>
 
-* Opera Browser
+- <a href="https://www.opera.com/" target="_blank">Opera Browser</a>
 
-* Mozilla Firefox
+- <a href="https://www.mozilla.org/en-GB/firefox/new/" target="_blank">Mozilla Firefox</a>
 
 
 ## TYPOGRAPHY
@@ -427,17 +416,14 @@ Please do not hesitate to contact me if I can be of any further assistance or pr
 
 ## CREDITS
 
-	Content: 
-		* Part of this content is from my resume project lecture adapt for my real details;
-		* Part of the text of this website is from my resume project; 
-		* The rest of the website is created by the developer of this project, Alexandre Gregorio
+Content: 
+- Part of this content is from my resume project lecture adapt for my real details;
+- Part of the text of this website is from my resume project; 
+- The rest of the website is created by the developer of this project, Alexandre Gregorio
 
-	Media:
-		* The background photo on the home page came from an open library and can be reached on the link: "https://unsplash.com/photos/iacpoKgpBAM";
-		* Profile image is from the developer of this project, Alexandre Gregorio.
+Media:
+- The background photo on the home page came from an open library <a href="https://unsplash.com/photos/iacpoKgpBAM" target="_blank">Unplash</a>
+- Profile image is from the developer of this project, Alexandre Gregorio.
 
-	Acknowledgements: 
-		* I received inspiration for this project from "https://scrimba.com/" - Portfolio settings;
-        * Google Fonts - https://fonts.google.com - CDN for fonts used in the project;
-        * Font Awesome - https://fontawesome.com - CDN for fonts used in the project;
-        * W3schools - https://www.w3schools.com - Open research library.
+Acknowledgements: 
+- I received inspiration for this project from <a href="https://scrimba.com/" target="_blank">Scrimba</a>
