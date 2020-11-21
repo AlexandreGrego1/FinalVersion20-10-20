@@ -164,25 +164,25 @@ To keep the user on the main page, a "target_blank" attribute is applied to open
 - **CSS** 
     - The project uses **CSS** as a programming language.
 
-- [JavaScripy][https://www.javascript.com/]
+- <a href="https://www.javascript.com/" target="_blank">JavaScript</a>
     - The project uses **JavaScript** to create interactive effects.
 
-- [GitHub][https://github.com/]
+- <a href="https://github.com/" target="_blank">GitHub</a>
     - The project uses **GitHub** to host this website and review code.
 
-- [GitPod][https://www.gitpod.io/]
+- <a href="https://www.gitpod.io/" target="_blank">GitPod</a>
     - The project uses **GitPod** as a development environment (IDE).
 
-- [Bootstrap][https://getbootstrap.com/]
+- <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>
     - The project uses **Bootstrap** to design and customize responsive mobile website.
 
-- [FontAwesome][https://fontawesome.com/]
+- <a href="https://fontawesome.com/" target="_blank">FontAwesome</a>
     - The project uses **FontAwesome** to get icons and social logos to the website.
 
-- [Balsamiq][https://balsamiq.com/wireframes/]
+- <a href="https://balsamiq.com/wireframes/" target="_blank">Balsamiq</a>
     - The project uses **Balsamiq** as a wireframing tool.
 
-- [GoogleFonts][https://fonts.google.com/]
+- <a href="https://fonts.google.com/" target="_blank">GoogleFonts</a>
     - The project uses **GoogleFonts** to style the website fonts.
 
 
