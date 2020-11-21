@@ -225,6 +225,7 @@ strong { font-weight: 700; }
 
 .intro {
     position: relative;
+    padding-bottom: 15px;
 }
 
 .intro-img {
@@ -378,6 +379,7 @@ strong { font-weight: 700; }
 .about-me {
     max-width: 1000px;
     margin: 0 auto;
+    padding-top: 10px;
 }
 
 .about-me-img {

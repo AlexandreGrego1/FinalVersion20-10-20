@@ -370,13 +370,13 @@ The GitHub repository for this project is: https://alexandregrego1.github.io/Fin
 
 Responsivity for mobile devices tested on:
 
-- <a href="https://developers.google.com/web/tools" target="_blank">Google Chrome Developer Tools</a>
+- <a href="https://developers.google.com/web/tools" target="_blank">Google Chrome Developer Tools</a>;
 
 - <a href="https://microsoftedgewelcome.microsoft.com/en-gb/" target="_blank">Microsoft Edge</a>
 
-- <a href="https://www.opera.com/" target="_blank">Opera Browser</a>
+- <a href="https://www.opera.com/" target="_blank">Opera Browser</a>;
 
-- <a href="https://www.mozilla.org/en-GB/firefox/new/" target="_blank">Mozilla Firefox</a>
+- <a href="https://www.mozilla.org/en-GB/firefox/new/" target="_blank">Mozilla Firefox</a>.
 
 
 ## TYPOGRAPHY
@@ -419,11 +419,11 @@ Please do not hesitate to contact me if I can be of any further assistance or pr
 Content: 
 - Part of this content is from my resume project lecture adapt for my real details;
 - Part of the text of this website is from my resume project; 
-- The rest of the website is created by the developer of this project, Alexandre Gregorio
+- The rest of the website is created by the developer of this project, Alexandre Gregorio.
 
 Media:
-- The background photo on the home page came from an open library <a href="https://unsplash.com/photos/iacpoKgpBAM" target="_blank">Unplash</a>
+- The background photo on the home page came from an open library <a href="https://unsplash.com/photos/iacpoKgpBAM" target="_blank">Unplash</a>.
 - Profile image is from the developer of this project, Alexandre Gregorio.
 
 Acknowledgements: 
-- I received inspiration for this project from <a href="https://scrimba.com/" target="_blank">Scrimba</a>
+- I received inspiration for this project from <a href="https://scrimba.com/" target="_blank">Scrimba</a>.
