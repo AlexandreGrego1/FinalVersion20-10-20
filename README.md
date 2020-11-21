@@ -199,37 +199,37 @@ The path through the website: Home > Resume > Contact > Download CV
 Those pages point to the next call with an action button. Visitors can have different navigations throughout the menu navigation. 
 
 1. As a visitor to the website, I want to easily navigate throughout the website portfolio. 
-	i. A fixed navigation bar navigation overflowing the screen is applied. 
-	ii. The visitors can easily access the navigation from whatever part of the portfolio they are in.
+	1. A fixed navigation bar navigation overflowing the screen is applied. 
+	2. The visitors can easily access the navigation from whatever part of the portfolio they are in.
 
 2. As a recruiter, I want to decide quickly if the candidate is a good fit for the job position offered.
-	i. On the resume page, there are two sections about "work history" and "my skills". 
-	ii. A resume is displayed to let the recruiter know about the work experience and education of the candidate. 
+	1. On the resume page, there are two sections about "work history" and "my skills". 
+	2. A resume is displayed to let the recruiter know about the work experience and education of the candidate. 
 
 3. As a recruiter, I want to know more about the candidate's profile.
-	i. On the home page, a "who I am" section is applied.
-	ii. A text with a brief autobiography about the candidate's experiences is available for recruiters to analyze the profile of the candidate. 
-    iii. A casual picture is applied to this section to bring positive emotion to the recruiter.
+	1. On the home page, a "who I am" section is applied.
+	2. A text with a brief autobiography about the candidate's experiences is available for recruiters to analyze the profile of the candidate. 
+    3. A casual picture is applied to this section to bring positive emotion to the recruiter.
 
 4. As a recruiter, I want to know about the candidate's last jobs.
-	i. On the footer, social network media is applied. 
-	ii. The social network provides the past jobs of the candidate.
-	iii. Once the recruiter clicks on the network media, a new tab is opened linking the network media clicked. 
-	iv. Target_blank function is applied to keep the recruiter on the main page.
+	1. On the footer, social network media is applied. 
+	2. The social network provides the past jobs of the candidate.
+	3. Once the recruiter clicks on the network media, a new tab is opened linking the network media clicked. 
+	4. Target_blank function is applied to keep the recruiter on the main page.
 
 5. As a recruiter, I want to make sure that the candidate is available to start a new career from entry-level.
-	i. On the home page, an about me section is applied.
-	ii. The candidate explains "why the company" should hire him.
+	1. On the home page, an about me section is applied.
+	2. The candidate explains "why the company" should hire him.
 
 6. An interested recruiter wants to contact the candidate for an interview process.
-	i. Personal information, e-mail link, and a contact form are applied.
-	ii. All pages have a footer with e-mail contact displayed.	
-	iii. On the home page, personal information is applied. The recruiter can easily find the e-mail or mobile number of the candidate.
-	iv. A contact page with a form is applied to the recruiter or other users send a project in mind or a text for contact. 
+	1. Personal information, e-mail link, and a contact form are applied.
+	2. All pages have a footer with e-mail contact displayed.	
+	3. On the home page, personal information is applied. The recruiter can easily find the e-mail or mobile number of the candidate.
+	4. A contact page with a form is applied to the recruiter or other users send a project in mind or a text for contact. 
 
 7. As a recruiter, I want to see the development projects that the candidate is involved in.
-	i. On the footer page, network media is applied. 
-	ii. Once the recruiter clicks on the network media, a new tab is opened linking the network media clicked keeping the recruiter on the main page.
+	1. On the footer page, network media is applied. 
+	2. Once the recruiter clicks on the network media, a new tab is opened linking the network media clicked keeping the recruiter on the main page.
 
 
 ### Testing website functionality 
