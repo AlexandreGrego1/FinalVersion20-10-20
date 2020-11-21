@@ -193,7 +193,7 @@ To keep the user on the main page, a "target_blank" attribute is applied to open
 
 * <a href="https://jigsaw.w3.org/css-validator/" target="_blank">CSS Validation Service</a>
 * <a href="https://validator.w3.org/nu/" target="_blank">HTML Checker</a>
-* <a href="https://www.createmockup.com/generate/?laptop=on&tablet=on&mobile=on&desktop=on&width=1024&preset=preset1&urlScreenshot=https%3A%2F%2Falexandregrego1.github.io%2FFinalVersion20-10-20%2F" target="_blank">Mockup</a>
+
 
 ### UX testing visitors stories 
 
