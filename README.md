@@ -32,11 +32,11 @@ after the portfolio presentation.
 
 #### Stakeholders stories:
 
-* As a recruiter, I want to learn about the candidate, so I can feel if I would contact him for the available position.
-* As a recruiter, I want to see how the candidate manages the development tools.
-* As a recruiter, I want to check the candidate's work experience. 
-* As a recruiter, I would like to see if the candidate would start as an entry-level in a new career.
-* As a recruiter, I want to verify the candidate networking links to see if the candidate has already been involved in any other projects. 
+* As a recruiter, I want to learn about the candidate, so I can feel if I would contact him for the available position;
+* As a recruiter, I want to see how the candidate manages the development tools;
+* As a recruiter, I want to check the candidate's work experience;
+* As a recruiter, I would like to see if the candidate would start as an entry-level in a new career;
+* As a recruiter, I want to verify the candidate networking links to see if the candidate has already been involved in any other projects;
 * As a visitor, I want to easily navigate throughout the website.
 
 
@@ -82,12 +82,14 @@ The method applied to develop this page is described as per below: <br>
 #### Header
 - Section wrapped with a profile image and greetings;
 - Zoom animation applied on a scale from 0.9 to 1.0 to call the user's attention;
-- Hamburger button developed with a transform translateX (0) animation and collapsing the navigation buttons. Once the user clicks on the hamburger button, the navigation shows up, and the options are available to be clicked. <br>
+- Hamburger button developed with a transform translateX (0) animation and collapsing the navigation buttons. Once the user clicks on the hamburger button, the navigation shows up,
+  and the options are available to be clicked. <br>
 
 #### Resume 
 - Screen developed to split its size into two different layouts;
-- Personal details takes 1/3 of the desktop view, while "about me" takes 2/3 of the desktop view. 
-- Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed to display its context underneath each other as a column.
+- Personal details takes 1/3 of the desktop view, while "about me" takes 2/3 of the desktop view; 
+- Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed to
+  display its context underneath each other as a column.
 
 #### About Me
 - Dedicated section to demonstrate to potencial recruiters about the candidate personality, what he/she has done, and what are their expections;
@@ -109,8 +111,9 @@ The method applied to develop this page is described as per below: <br>
 
 #### About Me
 - Screen developed to split its size into two different layouts;
-- Work history takes 1/3 of the desktop view, while "my skills" takes 2/3 of the desktop view. 
-- Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed to display its context underneath each other as a column.
+- Work history takes 1/3 of the desktop view, while "my skills" takes 2/3 of the desktop view; 
+- Screens are responsive, when the page is opened on a small screen, the layout will float to the left, and text is aligned to the center page. The paragraphs are developed
+  to display its context underneath each other as a column.
 
 
 ### CONTACT
@@ -150,10 +153,10 @@ To keep the user on the main page, a "target_blank" attribute is applied to open
 
 ### Features Left to Implement
 
-1. Projects:    as a new coding student, the candidate hasn't got the opportunity to develop projects to show to potential recruiters. A projection section in the portfolio 
-                should be created in the portfolio
-2. Blogs:   acting as a contributor in **Technology Blogs** should create a new network connection for the candidate. A blog section with the candidate posting to share his 
-            knowledge should be created in the portfolio
+1. Projects: as a new coding student, the candidate hasn't got the opportunity to develop projects to show to potential recruiters. A projection section in the portfolio 
+   should be created in the portfolio.
+2. Blogs: acting as a contributor in **Technology Blogs** should create a new network connection for the candidate. A blog section with the candidate posting to share his 
+   knowledge should be created in the portfolio.
 
 
 ## TECHNOLOGIES USED
@@ -252,13 +255,15 @@ Those pages point to the next call with an action button. Visitors can have diff
 	1. Refresh the home page screen
 	2. Verify if the zoom is working, the scale is properly sized, and if the time of the zoom animation is not too much.
 	3. Increase the shadow of the image profile and verify if the image is overflowing the subtitle.
-	4. Confirm if the width of the subtitle background is wider than the profile image. During the test, the background of the subtitle text wasn't wider than the image profile. So, the width calc applied is: 100% + 1.5em.
+	4. Confirm if the width of the subtitle background is wider than the profile image. During the test, the background of the subtitle text wasn't wider than the image profile. 
+       So, the width calc applied is: 100% + 1.5em.
 	5. On responsive view the image profile, greetings, and the subtitle text are center positioning. 
 	
 3.  About me section: 
 	1. Section slipped between 1/3 and 2/3 size screen classified in a container box.
 	2. During the test, the background color was too dark that was covering the image. So, a background blend mode was applied to keep the background image showing up.
-	3. On responsive view, the section is split into two parts. The personal information is coming up on the top with its text-align to center, and the about me section is underneath the personal information. 
+	3. On responsive view, the section is split into two parts. The personal information is coming up on the top with its text-align to center, and the about me section is
+       underneath the personal information. 
 
 4. Who I am section:
 	1. Test if the text is justified align. During the test, was observed that the text aligns to the left the layout on the right was not align as if it was a book layout.
@@ -266,9 +271,11 @@ Those pages point to the next call with an action button. Visitors can have diff
 
 5. Footer
 	1. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
-	2. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
+	2. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. 
+       A target_ blank attribute was applied.
 	3. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
-	4. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
+	4. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked 
+       (remain the user on the main page).
 	5. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.  
 
 #### Resume:
@@ -289,19 +296,23 @@ Those pages point to the next call with an action button. Visitors can have diff
 	1. Refresh the home page screen
 	2. Verify if the zoom is working, the scale is properly sized, and if the time of the zoom animation is not too much.
 	3. Increase the shadow of the image profile and verify if the image is overflowing the subtitle.
-	4. Confirm if the width of the subtitle background is wider than the profile image. During the test, the background of the subtitle text wasn't wider than the image profile. So, the width calc applied is: 100% + 1.5em.
+	4. Confirm if the width of the subtitle background is wider than the profile image. During the test, the background of the subtitle text wasn't wider than the image profile. 
+       So, the width calc applied is: 100% + 1.5em.
 	5. On responsive view the image profile, greetings, and the subtitle text are center positioning. 
 	
 3.  Work History: 
 	1. Section slipped between 1/3 and 2/3 size screen classified in a container box.
 	2. During the test, the background color was too dark that was covering the image. So, a background blend mode was applied to keep the background image showing up.
-	3. On responsive view, the section is split into two parts. The work history is coming up on the top with its text-align to center, and then my skills section is underneath the personal information. 
+	3. On responsive view, the section is split into two parts. The work history is coming up on the top with its text-align to center, and then my skills section is underneath
+       the personal information. 
 
 4. Footer
 	1. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
-	2. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
+	2. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page.
+       A target_ blank attribute was applied.
 	3. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
-	4. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
+	4. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked 
+       (remain the user on the main page).
 	5. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.   
 
 #### Contact: 
@@ -315,9 +326,11 @@ Those pages point to the next call with an action button. Visitors can have diff
 2. Footer
 	1. Verify if the e-mail address is a link and if it is hovering in red.
 	2. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button. 
-	3. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. A target_ blank attribute was applied.
+	3. Click on the download button. Check if a new tab is open. During the test, once the download button was clicked, the new tab was opening overflowing the current home page. 
+       A target_ blank attribute was applied.
 	4. Verify if the hovering property is applied to the download button. The font awesome button should become red. 
-	5. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked (remain the user on the main page).
+	5. Confirm if the network links are linked to the candidate profile. Click on the font awesome button and verify if a new tab will come up if the network clicked
+       (remain the user on the main page).
 	6. Check if the hover property is applied. Once hovering the mouse pointer, a red color should come up hovering the font awesome button.  
 
 #### Download CV: 
