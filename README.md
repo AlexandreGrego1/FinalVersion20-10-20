@@ -356,7 +356,7 @@ The GitHub repository for this project is: https://alexandregrego1.github.io/Por
 
 1. Log into GitHub.
 2. On the right of the page, click on your profile. the list of repositories on the screen, select AJGreaves/portrait-artist.
-3. Click on repositories, and click on the repository "FinalVersion20-10-20".
+3. Click on repositories, and click on the repository "PortfolioWebSite".
 4. Above the Gitpod button,  click on settings.
 5. Scroll down until the section GitHub pages.
 6. Under the Source, click to select the branch and tick the "master" option.
