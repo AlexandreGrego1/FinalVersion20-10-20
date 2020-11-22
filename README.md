@@ -381,7 +381,7 @@ The GitHub repository for this project is: https://alexandregrego1.github.io/Fin
 	3. Click on the button "Clone with HTTPs".
 	4. Copy the repository.
 	5. Click on the green button to open the "GitPod". 
-	6. Type "git clone" followed by the link "https://github.com/AlexandreGrego1/FinalVersion20-10-20." on the terminal of your GitPod IDE.
+	6. Type "git clone" followed by the link "https://alexandregrego1.github.io/PortfolioWebSite/" on the terminal of your GitPod IDE.
 	7. Press Enter and your local clone will be created.
 
 
