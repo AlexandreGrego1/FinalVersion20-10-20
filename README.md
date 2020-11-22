@@ -1,4 +1,6 @@
-# MILESTONE PROJECT - 1 
+# <a href="https://alexandregrego1.github.io/FinalVersion20-10-20/" target="_blank">MILESTONE PROJECT - 1</a>
+
+MILESTONE PROJECT - 1 
   
 Personal Portfolio Alexandre Gregorio,
 
@@ -58,6 +60,10 @@ I have thought early in the project, in the development process to establish the
 * <a href="assets/Wireframes/HomeMobileView.png" target="_blank">Home</a>
 * <a href="assets/Wireframes/ResumeMobileView.png" target="_blank">Resume</a>
 * <a href="assets/Wireframes/ContactMobileView.png" target="_blank">Contact</a>
+
+#### Mockup
+
+<img src="assets/img/MockUp.png.jpg" alt="">
 
 
 ## FEATURES
