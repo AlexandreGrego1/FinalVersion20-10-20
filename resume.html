@@ -11,29 +11,31 @@
 </head>
 <body>
     <header>
-        <section class="intro" id="home">
+        <button class="nav-toggle" aria-label="toggle navigation">
+            <span class="hamburger"></span>
+        </button>
+        <nav class="nav">
+            <ul class="nav-list" id="menu">
+            <li><a class="nav-link" href="index.html">Home</a></li>
+            <li><a href="resume.html" class="nav-link">Resume</a></li>
+            <li><a href="contact.html" class="nav-link">Contact</a></li>
+            <li><a href="assets/cv/new-cv.pdf" target="_blank" class="nav-link">Download CV</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- intro -->
+
+    <section class="intro" id="home">
             <h1 class="section-title section-title-intro">
                 Hi, I am <strong>Alexandre Gregorio</strong>
             </h1>
             <p class="section-subtitle-intro">Web Developer Based in Dublin</p>
             <img src="assets/img/center.jpg" alt="my profile img" class="intro-img">
-        </section>
-
-            <button class="nav-toggle" aria-label="toggle navigation">
-                <span class="hamburger"></span>
-            </button>
-            <nav class="nav">
-                <ul class="nav-list" id="menu">
-                    <li><a class="nav-link" href="index.html">Home</a></li>
-                    <li><a href="resume.html" class="nav-link">Resume</a></li>
-                    <li><a href="contact.html" class="nav-link">Contact</a></li>
-                    <li><a href="assets/cv/new-cv.pdf" target="_blank" class="nav-link">Download CV</a></li>
-                </ul>
-            </nav>
-    </header>
+    </section>
     
     <!-- About me -->
-    <section class="container-fluid">
+    <section class="main container-fluid">
         <div class="row">
             <div class="col-md-4 bg-color-work-history section-column">
                 <div class="row">
@@ -65,8 +67,8 @@
                     </div>
                 </div>
                 <div class="history-items">
-                    <div class="timeline-item" data-dates="09/2020 - Expected graduation: 08/2021">
-                        <h4>Code Institute <br> Dublin, Co. Dublin / Ireland</h4>
+                    <div class="timeline-item" data-dates="09/2020 - Expected Graduation: 08/2021">
+                        <h4 class="code">Code Institute <br> Dublin, Co. Dublin / Ireland</h4>
                         <p>Fullstack Web Developer</p>
                     </div>
                     <div class="timeline-item" data-dates="08/2011 - 12/2016">

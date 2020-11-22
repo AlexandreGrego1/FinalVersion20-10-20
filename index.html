@@ -11,29 +11,31 @@
 </head>
 <body>
     <header>
-        <section class="intro" id="home">
+        <button class="nav-toggle" aria-label="toggle navigation">
+            <span class="hamburger"></span>
+        </button>
+        <nav class="nav">
+            <ul class="nav-list">
+                <li><a class="nav-link" href="index.html">Home</a></li>
+                <li><a href="resume.html" class="nav-link">Resume</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li><a href="assets/cv/new-cv.pdf" target="_blank" class="nav-link">Download CV</a></li>
+            </ul>
+            </nav>
+    </header>
+
+    <!-- intro -->
+
+    <section class="intro" id="home">
             <h1 class="section-title section-title-intro">
                 Hi, I am <strong>Alexandre Gregorio</strong>
             </h1>
             <p class="section-subtitle-intro">Web Developer Based in Dublin</p>
             <img src="assets/img/center.jpg" alt="my profile img" class="intro-img">
-        </section>
-
-            <button class="nav-toggle" aria-label="toggle navigation">
-                <span class="hamburger"></span>
-            </button>
-            <nav class="nav">
-                <ul class="nav-list">
-                    <li><a class="nav-link" href="index.html">Home</a></li>
-                    <li><a href="resume.html" class="nav-link">Resume</a></li>
-                    <li><a href="contact.html" class="nav-link">Contact</a></li>
-                    <li><a href="assets/cv/new-cv.pdf" target="_blank" class="nav-link">Download CV</a></li>
-                </ul>
-            </nav>
-    </header>
+    </section>
     
     <!-- Resume -->
-    <section class="container-fluid">
+    <section class="main container-fluid">
         <div class="row">
             <div class="col-md-4 bg-color-personal-info section-column">
                 <div class="row">
@@ -108,9 +110,9 @@
                             <div class="col-10">
                                 <h4 class="three-reasons-heading uppercase">Why I want to change my career path?</h4>
                                 <p>
-                                    As I matured and got to know myself better, I realized how I fit into a career as a Web Developer better than what I have been doing, although my previous work has been fine
-                                    preparation for what I plan to do with the rest of my life. I have been steadily drawn to a career as a Web Developer for several years and getting ready for this transition. 
-                                    I have been attending a Fullstack Web Developer course at Code Institute.
+                                    As I matured and got to know myself better, I realized how I fit into a career as a Web Developer better than what I have been doing, although my
+                                    previous work has been fine preparation for what I plan to do with the rest of my life. I have been steadily drawn to a career as a Web Developer for
+                                    several years and getting ready for this transition. I have been attending a Fullstack Web Developer course at Code Institute.
                                 </p>
                             </div>
                         </div>
@@ -123,9 +125,9 @@
                             <div class="col-10">
                                 <h4 class="three-reasons-heading uppercase">What are my strenghts?</h4>
                                 <p>
-                                    I am good at analytical skills. I ensure that the coding is correct, so the website is functional. I analyze the wants and needs of the customers, and I am ready
-                                    to adapt to any changes they want to see implemented on the website. My interpersonal skills as a web developer may collaborate an overall good work ethic and 
-                                    positive attitude with the clients. 
+                                    I am good at analytical skills. I ensure that the coding is correct, so the website is functional. I analyze the wants and needs of the customers,
+                                    and I am ready to adapt to any changes they want to see implemented on the website. My interpersonal skills as a web developer may collaborate an
+                                    overall good work ethic and positive attitude with the clients. 
                                 </p>
                             </div>
                         </div>
@@ -138,8 +140,9 @@
                             <div class="col-10">
                                 <h4 class="three-reasons-heading uppercase">Why hire me?</h4>
                                 <p>
-                                    I may draw your attention to my personal qualities, I am hardworking and creative, and I can bring something unique to your team. I am perfectly suited to the job description
-                                    as an entry-level developer, and I relish the challenge to make my mark. My experience as a developer is limited, but my future potential is unlimited.
+                                    I may draw your attention to my personal qualities, I am hardworking and creative, and I can bring something unique to your team. I am perfectly
+                                    suited to the job description as an entry-level developer, and I relish the challenge to make my mark. My experience as a developer is limited, but
+                                    my future potential is unlimited.
                                 </p>
                             </div>
                         </div>
@@ -154,7 +157,6 @@
         <section class="about-me">
            <h2 class="section-title section-title-about">Who I am</h2>
            <p class="section-subtitle section-subtitle-about">Enthusiastic Learner</p>
-           
            <div>
                <p>I am a flexible professional, who enjoys learning new skills, easily adapts to new tasks, and enjoys building positive relationships with clients and colleagues
                 at all organizational levels.</p>
@@ -168,7 +170,6 @@
                 <p>I believe that I have the relevant background and mental discipline to successfully work for this reputable company. My career and educational achievements to
                  date show my willingness to work hard to achieve my goals.</p>
            </div>
-           
            <img src="assets/img/bgmine.jpg" alt="" class="about-me-img">
         </section>
 

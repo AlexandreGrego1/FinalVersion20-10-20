@@ -366,7 +366,7 @@ The GitHub repository for this project is: https://alexandregrego1.github.io/Fin
 	4. Log in into your GitHub account.
 	5. Click on the hamburger menu.
 	6. Right down at the bottom, open web store.
-	7. Search for Gitod.
+	7. Search for GitPod.
 	8. Click on the blue button "Add extension to chrome".
 
 2. Running this project locally: 
