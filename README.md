@@ -351,7 +351,7 @@ Those pages point to the next call with an action button. Visitors can have diff
 
 This project is developed using the Gitpod as version control. It is commited and pushed to GitHub.
 
-The GitHub repository for this project is: https://alexandregrego1.github.io/FinalVersion20-10-20/
+The GitHub repository for this project is: https://github.com/AlexandreGrego1/PortfolioWebSite
 
 1. Log into GitHub.
 2. On the right of the page, click on your profile. the list of repositories on the screen, select AJGreaves/portrait-artist.
@@ -376,12 +376,12 @@ The GitHub repository for this project is: https://alexandregrego1.github.io/Fin
 	8. Click on the blue button "Add extension to chrome".
 
 2. Running this project locally: 
-	1. Open the link: https://github.com/AlexandreGrego1/FinalVersion20-10-20.
+	1. Open the link: https://github.com/AlexandreGrego1/PortfolioWebSite
 	2. Click on the button "Code".
 	3. Click on the button "Clone with HTTPs".
 	4. Copy the repository.
 	5. Click on the green button to open the "GitPod". 
-	6. Type "git clone" followed by the link "https://alexandregrego1.github.io/PortfolioWebSite/" on the terminal of your GitPod IDE.
+	6. Type "git clone" followed by the link https://github.com/AlexandreGrego1/PortfolioWebSite on the terminal of your GitPod IDE.
 	7. Press Enter and your local clone will be created.
 
 
