@@ -63,7 +63,7 @@ I have thought early in the project, in the development process to establish the
 
 #### Mockup
 
-<img src="assets/img/MockUp.png.jpg" alt="">
+<img src="assets/img/MockUp.png" alt="">
 
 
 ## FEATURES
