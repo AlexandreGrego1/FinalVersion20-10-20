@@ -42,7 +42,7 @@ after the portfolio presentation.
 * As a visitor, I want to easily navigate throughout the website.
 
 
-#### Wireframes
+### Wireframes
 
 The layout placement and how they interact with one another goes through many stages, from conception to mockups to finalized UI is based on a responsive view.
 
@@ -51,17 +51,17 @@ journeys.
 
 I have thought early in the project, in the development process to establish the basic structure of a page before visual design and content is added.
 
-##### Desktop wireframes: 
+#### Desktop wireframes: 
 * <a href="assets/Wireframes/HomeDesktopView.png" target="_blank">Home</a>
 * <a href="assets/Wireframes/ResumeDesktopView.png" target="_blank">Resume</a>
 * <a href="assets/Wireframes/ContactDesktopView.png" target="_blank">Contact</a>
 
-#### Mobile wireframes
+### Mobile wireframes
 * <a href="assets/Wireframes/HomeMobileView.png" target="_blank">Home</a>
 * <a href="assets/Wireframes/ResumeMobileView.png" target="_blank">Resume</a>
 * <a href="assets/Wireframes/ContactMobileView.png" target="_blank">Contact</a>
 
-#### Mockup
+### Mockup:
 
 <img src="assets/img/MockUp.png" alt="">
 
@@ -352,7 +352,7 @@ Those pages point to the next call with an action button. Visitors can have diff
 
 This project is developed using the Gitpod as version control. It is commited and pushed to GitHub.
 
-The GitHub repository for this project is: https://github.com/AlexandreGrego1/PortfolioWebSite
+The GitHub repository for this project is: https://alexandregrego1.github.io/PortfolioWebSite/
 
 1. Log into GitHub.
 2. On the right of the page, click on your profile. the list of repositories on the screen, select AJGreaves/portrait-artist.
